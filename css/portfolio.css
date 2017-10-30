@@ -15,7 +15,7 @@ body {
 
 p {
   line-height: 1.75; 
-  color: #ff833a;
+  color: #FFDF67;
   font-family: 'Roboto Slab', serif;
 }
 
@@ -63,7 +63,7 @@ section h3.section-subheading {
 }
 
 #techSkills li {
-  color: #ff833a;
+  color: #FFDF67;
   font-family: 'Roboto Slab', serif;
 }
 
